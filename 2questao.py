@@ -1,5 +1,6 @@
 2questao 
 str_v = input("Qual é o seu nome? ")
+#print(str_v)
 print(type(str_v))
 int_v = int(input("Quantos anos você tem? "))
 print(type(int_v))

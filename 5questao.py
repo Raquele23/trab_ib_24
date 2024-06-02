@@ -1,4 +1,4 @@
-5questao -teste-
+5questao
 hora = int(input("Diga um número entre 0 e 23: "))
 if hora >= 5 and hora < 12:
 	print("Está de manhã")

@@ -1,2 +1,2 @@
 4questao
--teste-
+palavra = input("Qual a sua fruta preferida?")

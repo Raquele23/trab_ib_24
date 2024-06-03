@@ -1,13 +1,11 @@
-2questao 
-str_v = input("Qual é o seu nome? ")
-#print(str_v)
-print(type(str_v))
-int_v = int(input("Quantos anos você tem? "))
-#print(int_v)
-print(type(int_v))
-float_v = float(input("Digite um número decimal: "))
-#print(float_v)
-print(type(float_v))
-bool_v = bool(input("O que significa false? "))
-#print(bool_v)
-print(type(bool_v))
+str_v = "Gato"
+print(str_v); print(type(str_v))
+print("      ")
+int_v = 5
+print(int_v); print(type(int_v))
+print("      ")
+float_v = 3.14
+print(float_v); print(type(float_v))
+print("      ")
+bool_v = False
+print(bool_v); print(type(bool_v))

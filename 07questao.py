@@ -1,4 +1,3 @@
-7questao
 np = int(input("Escolha um número de 0 a 10: "))
 nb = int(input("Escolha um número de 0 a 10: "))
 print(".               ")

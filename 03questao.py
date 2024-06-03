@@ -1,4 +1,4 @@
 3questao
-frase = Bom dia
+frase = "Bom dia"
 print(frase)
 len(frase)

@@ -1,5 +1,5 @@
-n1 = int(input("Escolha um número de 1 a 100: "))
-n2 = int(input("Escolha um número de 1 a 100: "))
+n1 = int(input("Escolha um número: "))
+n2 = int(input("Escolha um número: "))
 print("        ")
 print(f"A soma desses números é: {n1+n2}")
 print(f"A subtração desses números é: {n1-n2}")
